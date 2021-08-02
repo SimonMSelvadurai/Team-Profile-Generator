@@ -53,6 +53,7 @@ To install dependencies, run the following:
 
 `npm install`
 `npm install --save-dev jest`
+`npm install inquirer`
 `npm start`
 
 ## Usage
