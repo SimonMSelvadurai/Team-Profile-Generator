@@ -9,7 +9,9 @@ Team Profile Generator to generate the team's profile
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Contributing](#contributing)
+- [Credits](#Credits)
+- [Images](#images)
+- [Videos](#Videos)
 - [Tests](#tests)
 - [Questions](#questions)
 
@@ -62,9 +64,27 @@ This Project is used to add the team members of an organisation using node.js.
 Employees with their respective ID,Name, Email,cotanct number,github,school can be added.
 We can add the Manager, Engineer and Intern.The Output team.html will be generated.
 
+Command to run the application
+
+`node index.js`
+
+This will prompt the user to choose the Manager's, Engineer and Intern's detail.
+User can succesfully enter all the details validated in questions.js
+htmlRenderer.js will render the input values assigning to corresponding html pages.
+Main.html page constructs the landing page with the inputs from engineer.html,intern.html etc.
+Once the team is been constructed, the generated "team.html" can be found.
+
 ## License
 
 This repository is licensed under the MIT license.
+
+## Credits
+
+    Inquirer package : https://www.npmjs.com/package/inquirer.
+
+    Jest package https://www.npmjs.com/package/jest for a suite of unit tests.
+
+    Node JS :  https://www.w3schools.com/nodejs/default.asp
 
 ## Images
 
