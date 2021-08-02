@@ -54,7 +54,7 @@ To install dependencies, run the following:
 `npm install`
 `npm install --save-dev jest`
 `npm install inquirer`
-`npm start`
+`node init`
 
 ## Usage
 
@@ -66,7 +66,19 @@ We can add the Manager, Engineer and Intern.The Output team.html will be generat
 
 This repository is licensed under the MIT license.
 
-## Contributing
+## Images
+
+![Questions](/assets/images/Questions.JPG)
+
+![Team Image](/assets/images/Team.JPG)
+
+![output Folder](/assets/images/output_Team.JPG)
+
+## Videos
+
+![Application Setup and testing](assets/videos/Setup-Testing.gif)
+
+![Application run commands and output](./assets/videos/ApplicationWalkthrough.gif)
 
 ## Tests
 
