@@ -56,7 +56,8 @@ To install dependencies, run the following:
 `npm install`
 `npm install --save-dev jest`
 `npm install inquirer`
-`node init`
+`npm init -y`
+`node index.js`
 
 ## Usage
 
